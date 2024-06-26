@@ -5,7 +5,7 @@ The analysis was conducted using the pandas Python library on a Supply Chain dat
 The dataset was imported into Jupyter Notebook and preprocessed to ensure that it was clean and structured in a manner that allowed for easy manipulation using pandas.
 
 The data was then analyzed using various pandas functions to gain insights into the different aspects of the supply chain.
-The answers to the diffrent questions were obtained by applying different pandas functions such as groupby, sum, mean, and count. The results were then visualized using various graphs and charts to provide a clearer picture of the data and insights obtained.
+The answers to the different questions were obtained by applying different pandas functions such as groupby, sum, mean, and count. The results were then visualized using various graphs and charts to provide a clearer picture of the data and insights obtained.
 
 Overall, the analysis provided valuable insights into the Supply Chain dataset, helping to identify trends and patterns that can be used to optimize the supply chain processes and improve customer satisfaction.
 
@@ -17,18 +17,18 @@ The analysis typically involves evaluating factors such as lead times, inventory
 Supply chain analysis is a critical process for businesses looking to remain competitive in today's global marketplace, where supply chain management has become increasingly complex due to factors such as globalization, technology advancements, and changing consumer behavior.
 
 
-# Supply Chain analysis Dataset; 
+# Supply Chain analysis Dataset:
 
 To analyze a company’s supply chain, we need data on the different stages of the supply chain, like data about sourcing, manufacturing, transportation, inventory management, sales and customer demographics.
 I found an ideal dataset for this task which includes data about the supply chain of a Fashion and Beauty startup. You can downlaod the dataset from this link; https://statso.io/supply-chain-analysis-case-study/
 
-# Analysis Done;
+# Analysis Findings:
 
 Descriptive Analysis to show the different statistics
 
 Sales Analysis; to examine the number of products sold and the revenue generated to identify trends in sales.
 
-Customer demographic analysis; , to identify target markets and tailor marketing campaigns accordingly.
+Customer demographic analysis to identify target markets and tailor marketing campaigns accordingly.
 
 Inventory analysis; : Analyzing stock levels, lead times, and order quantities to optimize inventory management.
 
@@ -37,8 +37,7 @@ Transportation analysis; : Analyzing transportation modes, routes, and costs to 
 Sales trends analysis: This would involve examining the data over time to identify trends in sales, including seasonality, periodicity, or other patterns that can inform business strategy.
 
 
-# Questions Answered from the Analysis
-The distribution of customer gender in the database
+# Questions Answered from the Analysis:
 
 The total sales per product type
 
